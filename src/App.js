@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { onFormSubmit, readFormData, resetForm, insertNewRecord, updateRecord, onEdit, onDelete, radioChecked, toggleNewFlavorInput } from './script.js'
+import { onFormSubmit, readFormData, resetForm, radioChecked, toggleNewFlavorInput } from './script.js'
 function App() {
   // Define your React component logic here
 
